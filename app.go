@@ -6,7 +6,7 @@ import (
 
 func main() {
 	//comment which gives information
-	const VAR_NAME = "value23"
+	const VAR_NAME = "value213"
 	// comment with space in front 
 	const number = "value123"
 	fmt.Println("Hello, world.", x)
